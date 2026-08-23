@@ -1,25 +1,36 @@
 <div align="center">
 
-  # ⚡ SHIVANI C
+  <!-- Header Waving Banner Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=SHIVANI%20C&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
+  <!-- Animated Typing SVG Subtitle Image -->
   <a href="https://30shivanic-tech.github.io/shivani/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&height=50&lines=AIML+Engineering+Student+%40+BIT+Bangalore;Python+%26+C+Language+Focus;Building+Intelligent+Systems+%26+Automation;Open+for+Internships+%26+Projects" alt="Shivani C Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&height=50&lines=AIML+Engineering+Student+%40+BIT+Bangalore;Python+%26+C+Language+Focus;Building+Intelligent+Systems+%26+Automation;Open+for+Internships+%26+Projects" alt="Typing Banner" />
   </a>
 
-  <br />
+  <br /><br />
 
-  [![Live Portfolio](https://img.shields.io/badge/⚡_Live_3D_Portfolio-30shivanic--tech.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://30shivanic-tech.github.io/shivani/)
-  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Shivani_C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-c-076627372)
-  [![Phone](https://img.shields.io/badge/📞_WhatsApp/Call-+91_8310232198-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:8310232198)
-  [![Email](https://img.shields.io/badge/✉️_Email-30shivanic--tech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:30shivanic-tech@gmail.com)
+  <!-- Social & Direct Action Badges -->
+  <a href="https://30shivanic-tech.github.io/shivani/">
+    <img src="https://img.shields.io/badge/⚡_Live_3D_Portfolio-30shivanic--tech.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shivani-c-076627372">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Shivani_C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="tel:8310232198">
+    <img src="https://img.shields.io/badge/📞_WhatsApp/Call-+91_8310232198-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+  <a href="mailto:30shivanic-tech@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-30shivanic--tech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-  <br />
+  <br /><br />
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Line" />
 
 </div>
 
----
-
-## 🌟 Executive Profile Summary
+## 🌟 Executive Summary & Engineering Focus
 
 > *"I'm an AIML engineering student genuinely interested in building intelligent systems that solve real-world problems. Focused on Python, C, data-driven automation, and logical problem solving."*
 
@@ -32,7 +43,7 @@
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Line" />
 
 ## 👩‍💻 About Me
 
@@ -42,9 +53,9 @@
 - 💡 **Philosophy**: Consistency, adapting to challenges, and learning by doing
 - 🗣️ **Languages**: English (Professional Working), Hindi (Full Professional / Native)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Line" />
 
-## 🛠️ Tech Stack & Skill Matrix
+## 🛠️ Visual Tech Stack & Technology Icons
 
 <table align="center" width="100%">
   <tr>
@@ -79,37 +90,26 @@
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Line" />
 
-## 🎓 Academic Education
+## 📊 Live GitHub Analytics & Streak Cards
 
-<table align="center" width="100%">
-  <tr>
-    <th width="60%">Institution & Degree</th>
-    <th width="20%">Period</th>
-    <th width="20%">Status</th>
-  </tr>
-  <tr>
-    <td>
-      <b>Bangalore Institute of Technology</b><br />
-      <sub>Bachelor of Engineering - BE, Artificial Intelligence & Machine Learning (AIML)</sub>
-    </td>
-    <td>Sep 2025 – Present</td>
-    <td>🟢 Currently Pursuing</td>
-  </tr>
-  <tr>
-    <td>
-      <b>Deeksha CFL PU College</b><br />
-      <sub>Pre-University Education (Science & Computer Fundamentals)</sub>
-    </td>
-    <td>Completed</td>
-    <td>✅ Completed</td>
-  </tr>
-</table>
+<div align="center">
 
----
+  <img src="https://github-readme-stats.vercel.app/api?username=30shivanic-tech&show_icons=true&theme=tokyonight&border_color=6366f1&hide_border=false&count_private=true" alt="Shivani's GitHub Stats Card" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=30shivanic-tech&layout=compact&theme=tokyonight&border_color=6366f1&hide_border=false" alt="Top Languages Distribution Card" width="48%" />
 
-## 💬 Connect & Collaborate
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=30shivanic-tech&theme=tokyonight&border=6366f1&hide_border=false" alt="GitHub Streak Stats Card" width="97%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Line" />
+
+## 💬 Connect & Network
 
 I'm actively building my network in AI and tech. Whether you're hiring interns, open to mentorship, or just want to exchange ideas—reach out anytime!
 
@@ -121,5 +121,7 @@ I'm actively building my network in AI and tech. Whether you're hiring interns, 
 ---
 
 <div align="center">
+  <!-- Footer Waving Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" width="100%" alt="Footer Banner" />
   <sub>Designed & Maintained by <b>Shivani C</b> | AIML @ Bangalore Institute of Technology</sub>
 </div>
