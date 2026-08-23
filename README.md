@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ✨ SHIVANI C
+  # ⚡ SHIVANI C
 
   <a href="https://30shivanic-tech.github.io/shivani/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&height=50&lines=AIML+Engineering+Student+%40+BIT+Bangalore;Python+%26+C+Language+Focus;Building+Intelligent+Systems+%26+Automation;Open+for+Internships+%26+Projects" alt="Typing Banner" />
