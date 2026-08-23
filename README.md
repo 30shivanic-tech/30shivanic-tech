@@ -23,6 +23,9 @@
   <a href="mailto:30shivanic-tech@gmail.com">
     <img src="https://img.shields.io/badge/✉️_Email-30shivanic--tech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://maps.google.com/?q=Bangalore+Institute+of+Technology,+K.R.+Road,+V.V.+Puram,+Bengaluru">
+    <img src="https://img.shields.io/badge/📍_Location-BIT_Bangalore-E11D48?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps Location" />
+  </a>
 
   <br /><br />
 
@@ -66,6 +69,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Line" />
 
+## 📍 College Location & Google Maps
+
+<table align="center" width="100%">
+  <tr>
+    <td p="4">
+      <h3>🏛️ Bangalore Institute of Technology (BIT Bangalore)</h3>
+      <p>
+        📍 <b>Address</b>: K.R. Road, V.V. Puram, Bengaluru, Karnataka 560004<br />
+        🗺️ <b>Google Maps Link</b>: <a href="https://maps.google.com/?q=Bangalore+Institute+of+Technology,+K.R.+Road,+V.V.+Puram,+Bengaluru">Open Bangalore Institute of Technology on Google Maps</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Line" />
+
 ## 🛠️ Visual Tech Stack & Technology Icons
 
 <table align="center" width="100%">
@@ -103,23 +122,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Line" />
 
-## 📊 Live GitHub Analytics & Streak Cards
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=30shivanic-tech&show_icons=true&theme=tokyonight&border_color=6366f1&hide_border=false&count_private=true" alt="Shivani's GitHub Stats Card" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=30shivanic-tech&layout=compact&theme=tokyonight&border_color=6366f1&hide_border=false" alt="Top Languages Distribution Card" width="48%" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=30shivanic-tech&theme=tokyonight&border=6366f1&hide_border=false" alt="GitHub Streak Stats Card" width="97%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Line" />
-
 ## 💬 Connect & Network
 
 I'm actively building my network in AI and tech. Whether you're hiring interns, open to mentorship, or just want to exchange ideas—reach out anytime!
@@ -127,6 +129,7 @@ I'm actively building my network in AI and tech. Whether you're hiring interns, 
 - 💼 **LinkedIn Profile**: [linkedin.com/in/shivani-c-076627372](https://www.linkedin.com/in/shivani-c-076627372)
 - 📞 **Phone / WhatsApp**: `+91 8310232198`
 - ✉️ **Email Address**: `30shivanic-tech@gmail.com`
+- 📍 **Google Maps Location**: [Bangalore Institute of Technology, Bengaluru](https://maps.google.com/?q=Bangalore+Institute+of+Technology,+K.R.+Road,+V.V.+Puram,+Bengaluru)
 - 🌐 **Live 3D WebGL Portfolio**: [30shivanic-tech.github.io/shivani](https://30shivanic-tech.github.io/shivani/)
 
 ---
