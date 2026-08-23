@@ -1,9 +1,9 @@
 <div align="center">
 
-  # ⚡ SHIVANI C | AIML ENGINEER & SYSTEMS DEVELOPER
+  # ✨ SHIVANI C
 
   <a href="https://30shivanic-tech.github.io/shivani/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&height=50&lines=AIML+Engineering+Student+%40+BIT+Bangalore;Building+Data-Driven+Automation+%26+Smart+AI;Low-Level+C+Systems+%2B+High-Level+Python;Open+for+Internships+%26+AI+Collaborations" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&height=50&lines=AIML+Engineering+Student+%40+BIT+Bangalore;Python+%26+C+Language+Focus;Building+Intelligent+Systems+%26+Automation;Open+for+Internships+%26+Projects" alt="Typing Banner" />
   </a>
 
   <br />
@@ -14,82 +14,66 @@
   [![Email](https://img.shields.io/badge/✉️_Email-30shivanic--tech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:30shivanic-tech@gmail.com)
 
   <br />
-  
-  ```text
-  🟢 STATUS: Actively Seeking AI / Software Engineering Internships & Project Collaborations
-  ```
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Divider" />
 
 </div>
 
----
+## 🌟 Executive Summary & Engineering Focus
 
-## 🛰️ AI & Messaging Pipeline Architecture Overview
-
-> *Designing resilient event-driven data processing routines, low-level memory allocators in C, and intelligent machine learning models.*
+> *"I'm an AIML engineering student genuinely interested in building intelligent systems that solve real-world problems. Focused on Python, C, data-driven automation, and logical problem solving."*
 
 ```text
-  ┌───────────────────────────┐         Streaming Event Data         ┌─────────────────────────────────┐
-  │  Real-World Data Ingestion├────────────────────────────────────► │ Python Data Processing Pipeline │
-  └───────────────────────────┘                                      └────────────────┬────────────────┘
-                                                                                      │
-                                                                           Low-Level Memory Routines
-                                                                                      │
-                                                                                      ▼
-  ┌───────────────────────────┐        Inference Signals             ┌─────────────────────────────────┐
-  │   Smart Automation Engine ◄──────────────────────────────────────┤  ANSI C Memory & Logic Solver   │
-  └─────────────┬─────────────┘                                      └─────────────────────────────────┘
-                │
-                ▼
-  ┌───────────────────────────┐
-  │   3D WebGL Dashboard UI   │ (Next.js 16 + Three.js WebGL Stage)
-  └───────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│  🎓 Education : BE in Artificial Intelligence & Machine Learning (Sep 2025 – Present)  │
+│  🏫 Institute : Bangalore Institute of Technology (BIT Bangalore)                     │
+│  🧠 Focus     : Python, C Programming, AI Logic & Data Structures                      │
+│  🟢 Status    : Actively Seeking Internships & Collaborative Opportunities             │
+└────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Divider" />
 
-## 👩‍💻 About Shivani C
+## 👩‍💻 About Me
 
-I'm an **AIML engineering student** at **Bangalore Institute of Technology** genuinely interested in building intelligent systems that solve real-world problems.
+- 🎓 **Engineering Major**: Artificial Intelligence & Machine Learning @ **Bangalore Institute of Technology**
+- 🏫 **Pre-University**: Deeksha CFL PU College (Science)
+- ⚙️ **Core Technical Interests**: Python Automation, C Systems Programming, AI Model Logic, Data Processing
+- 💡 **Philosophy**: Consistency, adapting to challenges, and learning by doing
+- 🗣️ **Languages**: English (Professional Working), Hindi (Full Professional / Native)
 
-- 🎓 **Major**: Bachelor of Engineering - BE, Artificial Intelligence & Machine Learning (Sep 2025 – Present)
-- 🏫 **Schooling**: Deeksha CFL PU College (Pre-University Science)
-- ⚙️ **Core Focus**: Python Automation, ANSI C Memory & Data Structures, Model Evaluation, Logical Problem Solving
-- 🎯 **Career Objective**: Become a High-Impact AI Engineer designing intelligent, data-driven systems
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Divider" />
 
----
-
-## 🛠️ Technology Stack & Core Competencies
+## 🛠️ Technical Competencies & Tooling
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💻 Languages & Systems Logic</h3>
+      <h3 align="center">💻 Core Languages & Logic</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/C_Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
         <br />
         <img src="https://img.shields.io/badge/Data_Structures-6366F1?style=for-the-badge&logo=codewars&logoColor=white" />
-        <img src="https://img.shields.io/badge/Algorithms_&_Logic-8B5CF6?style=for-the-badge&logo=brain&logoColor=white" />
+        <img src="https://img.shields.io/badge/Problem_Solving-8B5CF6?style=for-the-badge&logo=brain&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Frontend & 3D WebGL</h3>
+      <h3 align="center">🌐 Modern Web & 3D Engineering</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Three.js_WebGL-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
         <br />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub_Pages-22C55E?style=for-the-badge&logo=github&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Divider" />
 
-## 📈 GitHub Engineering Metrics
+## 📈 GitHub Performance Metrics
 
 <div align="center">
 
@@ -104,17 +88,19 @@ I'm an **AIML engineering student** at **Bangalore Institute of Technology** gen
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=30shivanic-tech&theme=tokyonight&border=6366f1&hide_border=false" alt="GitHub Streak" width="97%" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Divider" />
 
-## ⚡ Quick Contact & Social Connect
+## 💬 Let's Connect
 
-- 💼 **LinkedIn Profile**: [linkedin.com/in/shivani-c-076627372](https://www.linkedin.com/in/shivani-c-076627372)
+Whether you're hiring interns, open to mentorship, or just want to exchange ideas on AI and technology—reach out anytime!
+
+- 💼 **LinkedIn**: [linkedin.com/in/shivani-c-076627372](https://www.linkedin.com/in/shivani-c-076627372)
 - 📞 **Phone / WhatsApp**: `+91 8310232198`
-- ✉️ **Email Address**: `30shivanic-tech@gmail.com`
-- 🌐 **Live Web App**: [30shivanic-tech.github.io/shivani](https://30shivanic-tech.github.io/shivani/)
+- ✉️ **Email**: `30shivanic-tech@gmail.com`
+- 🌐 **Live Portfolio**: [30shivanic-tech.github.io/shivani](https://30shivanic-tech.github.io/shivani/)
 
 ---
 
 <div align="center">
-  <sub>Engineered with ❤️ by <b>Shivani C</b> | AIML @ Bangalore Institute of Technology</sub>
+  <sub>Designed & Maintained by <b>Shivani C</b> | Bangalore Institute of Technology</sub>
 </div>
