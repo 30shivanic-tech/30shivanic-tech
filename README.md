@@ -5,14 +5,14 @@
 
   <!-- Animated Typing SVG Subtitle Image -->
   <a href="https://30shivanic-tech.github.io/shivani/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&height=50&lines=AIML+Engineering+Student+%40+BIT+Bangalore;Python+%26+C+Language+Focus;Building+Intelligent+Systems+%26+Automation;Open+for+Internships+%26+Projects" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=650&height=50&lines=AIML+Engineering+Student+%40+BIT+Bangalore;Python+%26+C+Language+Focus;Data+Structures+%26+Problem+Solving;Git%2C+GitHub+%26+Linux+Commands" alt="Typing Banner" />
   </a>
 
   <br /><br />
 
   <!-- Social & Direct Action Badges -->
   <a href="https://30shivanic-tech.github.io/shivani/">
-    <img src="https://img.shields.io/badge/⚡_Live_3D_Portfolio-30shivanic--tech.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/⚡_Live_Portfolio-30shivanic--tech.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/shivani-c-076627372">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Shivani_C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,9 +22,6 @@
   </a>
   <a href="mailto:30shivanic-tech@gmail.com">
     <img src="https://img.shields.io/badge/✉️_Email-30shivanic--tech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://maps.google.com/?q=Bangalore+Institute+of+Technology,+K.R.+Road,+V.V.+Puram,+Bengaluru">
-    <img src="https://img.shields.io/badge/📍_Location-BIT_Bangalore-E11D48?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps Location" />
   </a>
 
   <br /><br />
@@ -38,18 +35,18 @@
 <table align="center" width="100%">
   <tr>
     <td p="4">
-      <h3>🚀 AIML Engineer & Systems Student</h3>
+      <h3>🚀 AIML Student & Programmer</h3>
       <p>
-        I am an <b>AIML engineering student</b> at <b>Bangalore Institute of Technology</b> genuinely passionate about building intelligent systems that solve real-world problems. Right now, I am dedicated to mastering <b>Python</b> and <b>ANSI C</b>, refining algorithm logic, and developing data-driven automation.
+        I am an <b>AIML engineering student</b> at <b>Bangalore Institute of Technology</b> genuinely interested in building intelligent systems and strengthening core programming fundamentals. Focused on <b>Python</b>, <b>C</b>, <b>Data Structures</b>, <b>Problem Solving</b>, <b>Git/GitHub</b>, and <b>Linux Commands</b>.
       </p>
       <hr />
       <table width="100%">
         <tr>
-          <td>🎓 <b>Major</b>: BE Artificial Intelligence & ML</td>
-          <td>🏫 <b>College</b>: BIT Bangalore</td>
+          <td>🎓 <b>Degree</b>: BE AIML (BIT Bangalore)</td>
+          <td>🧠 <b>Core Focus</b>: Python & C Programming</td>
         </tr>
         <tr>
-          <td>🧠 <b>Core Focus</b>: Python, C & Data Logic</td>
+          <td>🛠️ <b>Tooling</b>: Git, GitHub, Linux Commands</td>
           <td>🟢 <b>Status</b>: Open for Internships & Projects</td>
         </tr>
       </table>
@@ -63,34 +60,18 @@
 
 - 🎓 **Engineering Major**: Artificial Intelligence & Machine Learning @ **Bangalore Institute of Technology** (Sep 2025 – Present)
 - 🏫 **Pre-University**: Deeksha CFL PU College (Science)
-- ⚙️ **Core Technical Focus**: Python Automation, ANSI C Memory & Data Structures, AI Algorithm Logic
-- 💡 **Engineering Philosophy**: Consistency, adapting to challenges, and learning by doing
+- ⚙️ **Core Technical Skills**: Python, C Programming, Data Structures, Problem Solving, Git, GitHub, Linux Commands
+- 💡 **Philosophy**: Consistency, adapting to challenges, and learning by doing
 - 🗣️ **Languages**: English (Professional Working), Hindi (Full Professional / Native)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Line" />
 
-## 📍 College Location & Google Maps
+## 🛠️ Technical Competencies
 
 <table align="center" width="100%">
   <tr>
-    <td p="4">
-      <h3>🏛️ Bangalore Institute of Technology (BIT Bangalore)</h3>
-      <p>
-        📍 <b>Address</b>: K.R. Road, V.V. Puram, Bengaluru, Karnataka 560004<br />
-        🗺️ <b>Google Maps Link</b>: <a href="https://maps.google.com/?q=Bangalore+Institute+of+Technology,+K.R.+Road,+V.V.+Puram,+Bengaluru">Open Bangalore Institute of Technology on Google Maps</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Line" />
-
-## 🛠️ Visual Tech Stack & Technology Icons
-
-<table align="center" width="100%">
-  <tr>
-    <th width="50%">💻 Programming & AI Core</th>
-    <th width="50%">🌐 Web & 3D Engineering</th>
+    <th width="50%">💻 Core Languages & Problem Solving</th>
+    <th width="50%">🛠️ Version Control & Developer Systems</th>
   </tr>
   <tr>
     <td valign="top">
@@ -98,23 +79,17 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/C_Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Language" />
         <br /><br />
-        <img src="https://img.shields.io/badge/Artificial_Intelligence-6366F1?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-        <img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="ML" />
-        <br /><br />
         <img src="https://img.shields.io/badge/Data_Structures-10B981?style=for-the-badge&logo=codewars&logoColor=white" alt="Data Structures" />
-        <img src="https://img.shields.io/badge/Problem_Solving-F59E0B?style=for-the-badge&logo=brain&logoColor=white" alt="Logic" />
+        <img src="https://img.shields.io/badge/Problem_Solving-F59E0B?style=for-the-badge&logo=brain&logoColor=white" alt="Problem Solving" />
       </p>
     </td>
     <td valign="top">
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Three.js_WebGL-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         <br /><br />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/GitHub_Pages-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
-        <img src="https://img.shields.io/badge/Linux_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Linux" />
+        <img src="https://img.shields.io/badge/Linux_Commands-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
       </p>
     </td>
   </tr>
@@ -124,13 +99,12 @@
 
 ## 💬 Connect & Network
 
-I'm actively building my network in AI and tech. Whether you're hiring interns, open to mentorship, or just want to exchange ideas—reach out anytime!
+I'm actively building my network in tech. Whether you're hiring interns, open to mentorship, or just want to exchange ideas—reach out anytime!
 
 - 💼 **LinkedIn Profile**: [linkedin.com/in/shivani-c-076627372](https://www.linkedin.com/in/shivani-c-076627372)
 - 📞 **Phone / WhatsApp**: `+91 8310232198`
 - ✉️ **Email Address**: `30shivanic-tech@gmail.com`
-- 📍 **Google Maps Location**: [Bangalore Institute of Technology, Bengaluru](https://maps.google.com/?q=Bangalore+Institute+of+Technology,+K.R.+Road,+V.V.+Puram,+Bengaluru)
-- 🌐 **Live 3D WebGL Portfolio**: [30shivanic-tech.github.io/shivani](https://30shivanic-tech.github.io/shivani/)
+- 🌐 **Live Portfolio Website**: [30shivanic-tech.github.io/shivani](https://30shivanic-tech.github.io/shivani/)
 
 ---
 
