@@ -30,27 +30,38 @@
 
 </div>
 
-## 🌟 Executive Summary & Engineering Focus
+## 💎 Executive Summary
 
-> *"I'm an AIML engineering student genuinely interested in building intelligent systems that solve real-world problems. Focused on Python, C, data-driven automation, and logical problem solving."*
-
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  🎓 Degree   : BE in Artificial Intelligence & Machine Learning (Sep 2025 – Present)   │
-│  🏫 College  : Bangalore Institute of Technology (BIT Bangalore)                     │
-│  🧠 Focus    : Python, C Programming, AI Logic & Data Structures                       │
-│  🟢 Status   : Actively Seeking Internships & Project Opportunities                   │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<table align="center" width="100%">
+  <tr>
+    <td p="4">
+      <h3>🚀 AIML Engineer & Systems Student</h3>
+      <p>
+        I am an <b>AIML engineering student</b> at <b>Bangalore Institute of Technology</b> genuinely passionate about building intelligent systems that solve real-world problems. Right now, I am dedicated to mastering <b>Python</b> and <b>ANSI C</b>, refining algorithm logic, and developing data-driven automation.
+      </p>
+      <hr />
+      <table width="100%">
+        <tr>
+          <td>🎓 <b>Major</b>: BE Artificial Intelligence & ML</td>
+          <td>🏫 <b>College</b>: BIT Bangalore</td>
+        </tr>
+        <tr>
+          <td>🧠 <b>Core Focus</b>: Python, C & Data Logic</td>
+          <td>🟢 <b>Status</b>: Open for Internships & Projects</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Line" />
 
 ## 👩‍💻 About Me
 
-- 🎓 **Engineering Major**: Artificial Intelligence & Machine Learning @ **Bangalore Institute of Technology**
+- 🎓 **Engineering Major**: Artificial Intelligence & Machine Learning @ **Bangalore Institute of Technology** (Sep 2025 – Present)
 - 🏫 **Pre-University**: Deeksha CFL PU College (Science)
 - ⚙️ **Core Technical Focus**: Python Automation, ANSI C Memory & Data Structures, AI Algorithm Logic
-- 💡 **Philosophy**: Consistency, adapting to challenges, and learning by doing
+- 💡 **Engineering Philosophy**: Consistency, adapting to challenges, and learning by doing
 - 🗣️ **Languages**: English (Professional Working), Hindi (Full Professional / Native)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Gradient Line" />
